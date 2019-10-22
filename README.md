@@ -1,7 +1,10 @@
 # ポストエフェクト
 
-![結果画像1](1_posteffect/result.png)
-![結果画像2](2_glare/result.png)
+![結果画像1](1_posteffect/result1.png)<br>
+![結果画像1](1_posteffect/result2.png)<br>
+![結果画像2](2_glare/result1.png)<br>
+![結果画像2](2_glare/result2.png)<br>
+![結果画像2](2_glare/result3.png)<br>
 
 授業で作成したプロジェクトファイルをforkしたプロジェクトに上げてください。
 
