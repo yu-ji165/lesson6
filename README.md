@@ -1,7 +1,10 @@
 # ポストエフェクト
 
+# ポストエフェクト
 ![結果画像1](1_posteffect/result1.png)<br>
 ![結果画像1](1_posteffect/result2.png)<br>
+![結果画像1](1_posteffect/result3.png)<br>
+# ぼかし
 ![結果画像2](2_glare/result1.png)<br>
 ![結果画像2](2_glare/result2.png)<br>
 ![結果画像2](2_glare/result3.png)<br>
